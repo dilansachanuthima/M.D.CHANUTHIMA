@@ -5,8 +5,8 @@
   </head>
     <body>
       <center><h1>WELCOME TO OUR SITE</h1></center><br><br>
-      <button>MUSIC</button> &nbsp &nbsp <button>MUSIC</button> &nbsp &nbsp <button>MUSIC</button> &nbsp &nbsp <button>MUSIC</button> &nbsp &nbsp
-      <button>MUSIC</button> &nbsp &nbsp <button>MUSIC</button> &nbsp &nbsp <button>MUSIC</button> &nbsp &nbsp <button>MUSIC</button> &nbsp &nbsp
+      <button>MUSIC</button> &nbsp; &nbsp; <button>MUSIC</button> &nbsp; &nbsp; <button>MUSIC</button> &nbsp; &nbsp; <button>MUSIC</button> &nbsp; &nbsp;
+      <button>MUSIC</button> &nbsp; &nbsp; <button>MUSIC</button> &nbsp; &nbsp; <button>MUSIC</button> &nbsp; &nbsp; <button>MUSIC</button> &nbsp; &nbsp;
     
   </body>
 </html>
