@@ -1,0 +1,24 @@
+img{
+  border-radius:80px
+}
+
+button {
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+  font-family:algerian;
+}
+
+h1{
+  text-shadow: 2px 2px 5px red;
+  font-family:algerian;
+
+}
