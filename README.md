@@ -5,9 +5,9 @@
   </head>
     <body>
       <center><h1>WELCOME TO OUR SITE</h1></center><br><br>
-      <button>MUSIC</button> &nbsp; &nbsp; <button>MUSIC</button> &nbsp; &nbsp; <button>MUSIC</button> &nbsp; &nbsp; <button>MUSIC</button> &nbsp; &nbsp;
-      <button>MUSIC</button> &nbsp; &nbsp; <button>MUSIC</button> &nbsp; &nbsp; <button>MUSIC</button> &nbsp; &nbsp; <button>MUSIC</button> &nbsp; &nbsp;
-      <button>MUSIC</button> &nbsp; &nbsp; <button>MUSIC</button> &nbsp; &nbsp; <button>MUSIC</button> &nbsp; &nbsp; <button>MUSIC</button> &nbsp; &nbsp;
+      <button>MUSIC</button> &nbsp; &nbsp; <button>NEWS</button> &nbsp; &nbsp; <button>CONTACT</button> &nbsp; &nbsp; <button>ABOUT US</button> &nbsp; &nbsp;
+    
+ 
     
   </body>
 </html>
