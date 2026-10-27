@@ -4,13 +4,10 @@
     <link rel="stylesheet" type="text/css" href="0001.css">
   </head>
     <body>
-     <ul>
-           <li><a href="#home">Home</a></li>
-           <li><a href="#news">News</a></li>
-           <li><a href="#contact">Contact</a></li>
-           <li><a href="#about">About</a></li>
-   </ul>
-
+      <button>(01) Music</button><br><br>
+       <button>(02) News</button><br><br>
+        <button>(03) Contact</button><br><br>
+         <button>(04) About Us</button><br><br>
  
     
   </body>
