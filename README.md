@@ -4,9 +4,13 @@
     <link rel="stylesheet" type="text/css" href="0001.css">
   </head>
     <body>
-      <center><h1>WELCOME TO OUR SITE</h1></center><br><br>
-      <button>MUSIC</button> &nbsp; &nbsp; <button>NEWS</button> &nbsp; &nbsp; <button>CONTACT</button> &nbsp; &nbsp; <button>ABOUT US</button> &nbsp; &nbsp;
-    
+     <ul>
+           <li><a href="#home">Home</a></li>
+           <li><a href="#news">News</a></li>
+           <li><a href="#contact">Contact</a></li>
+           <li><a href="#about">About</a></li>
+   </ul>
+
  
     
   </body>
